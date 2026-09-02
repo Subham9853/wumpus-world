@@ -2,6 +2,7 @@
   "name": "wumpus-world",
   "private": true,
   "version": "1.0.0",
+  "description": "A beginner-friendly React Wumpus World game with cave exploration, AI assistance, and knowledge-based hazard tracking.",
   "type": "module",
   "scripts": {
     "dev": "vite",

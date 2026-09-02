@@ -1,6 +1,8 @@
 # Wumpus World
 
-A beginner-friendly React game inspired by the classic Wumpus World AI problem. Explore a 4x4 cave, use breeze and stench clues to reason about hazards, find the golden treasure, and return to the entrance.
+## About
+
+Wumpus World is a beginner-friendly React game inspired by the classic Wumpus World AI problem. Explore a 4x4 cave, use breeze and stench clues to reason about hazards, find the golden treasure, and return to the entrance safely.
 
 ## Features
 
